@@ -1,0 +1,50 @@
+/* Styling the HTML tags
+Responsive Website
+Animation on webpage
+2D and 3D elements of HTML elements
+Website Development Process becomes fast(multiple HTML files single CSS) */
+
+/* Ways to implement CSS
+Inline
+Inpage/ Internal
+External */
+
+/* Inline */
+
+/* Internal */
+
+/* External */
+
+
+/* CSS Syntax = Selector {property: value;} */
+
+/* Types of Selectors:
+Simple Selector
+Combinator Selector
+Pseudo-class selector
+Pseudo-elements selector
+Attribute selector */
+
+/* 
+Simple Selector:
+    By tag name
+    By class name
+    By id name
+*/
+
+/*
+Combined Selectors:
+    Descendant Selector:
+        .cls p
+    Child Selector: >
+        .cls > p
+ */
+
+/* Pseudo-class
+:link
+:hover
+:active
+:visited */
+
+
+/* Tooltip using hover */
