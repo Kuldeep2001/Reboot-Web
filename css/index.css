@@ -18,7 +18,7 @@ Combinator Selectors:
     /* Pseudo class Selector:
         :link */
 
-.new>p{
+/* .new>p{ */
     /* background-color: rgb(176,0,0); */
     /* border-width: 8px;
     border-style: ridge;
@@ -28,15 +28,15 @@ Combinator Selectors:
     /* border-top: 2px dashed green;
     border-right: 3px solid red; */
     /* outline: 2px solid green; */
-    border: 4px solid red;
+    /* border: 4px solid red; */
     /* outline-offset: 8px; */
     /* padding-top: 50px;
     padding-right: 40px;
     padding-bottom: 100px;
     padding-left: 80px; */
     /* padding: top right bottom left; */
-    padding: 50px 40px 100px 80px;
-}
+    /* padding: 50px 40px 100px 80px; */
+/* } */
 
 /* border-style:
     solid
@@ -57,3 +57,68 @@ hexcode
 rgba
 hsl
 hsla */
+
+/* .new{
+    background-color: green;
+}
+*/
+/* .new>p{ */
+    /* background-color: transparent; */
+    /* border: 2px solid red; */
+    /* height: 100px; */
+    /* width: 300px; */
+    /* padding: 10px; */
+    /* em/rem/%/vh/px/ph */
+    /* margin: 0 auto 0 auto; */
+    /* margin: magin-top/bottom margin-right/left */
+    /* margin: 0 auto; */
+    /* overflow:auto; */
+    /* box-shadow: 4px 5px 3px rgb(131, 123, 123); */
+    /* box-shadow: h-offset v-offset blur spread color_name; */
+/* } */
+
+
+/* em */
+/* .new{ */
+    /* font-size: 1em; */
+    /* font-size: 16*1.5; */
+    /* padding: 0.5em; */
+    /* font-size: 24px */
+/* font-size: 16px; */
+/* } */
+/* .new>p{ */
+    /* font-size: 1.5em; */
+    /* padding: 1.5em; */
+    /* font-size: 36px; */
+/* font-size: 24px; */
+/* } */
+
+/* rem */
+/* .new{
+    font-size: 1rem;
+    padding: 2px;
+}
+.new>p{
+    font-size: 1rem;
+} */
+
+/* vh and vw
+viewport height and viewport width */
+/* .first{
+    border: 2px solid rebeccapurple;
+    width: 300px;
+    float: left;
+}
+.second{
+    border: 4px solid green;
+    width: 200px;
+    float: right;
+}
+
+.third{
+    clear: left;
+}
+footer{
+    background-color: cadetblue;
+} */
+

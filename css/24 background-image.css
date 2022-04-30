@@ -1,0 +1,47 @@
+/* background-image: url()
+
+background-repeat: repeat
+            no-repeat
+            repeat-x
+            repeat-y
+            space
+
+background-position: left-top
+                     left-center
+                     left-bottom
+                     right-top
+                     right-center
+                     right-bottom
+                     center-top
+                     center-center
+                     center-bottom
+                     x% y%
+                     xpos ypos
+ */
+
+/* 
+background-attachment: fixed
+                       scroll
+
+background-size: auto
+                px
+                %
+                cover
+                contain
+
+background-origin: padding-box
+                    border-box
+                    content-box
+
+background-clip: padding-box
+                    border-box
+                    content-box
+                    text  (experimental) for this -webkit- and color:transparent
+
+background: linear-gradient()
+repeated-linear-gradient
+radial-gradient
+
+
+background-blend-mode
+ */

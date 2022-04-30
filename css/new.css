@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 19.05vw;
+    height: 20vh;
+    float: left;
+    border: 0.1vw solid red;
+    margin: 0.25vw;
+}
